@@ -1,0 +1,111 @@
+
+.container-fluid{
+  background-color: #5DBCD2; 
+  color: white;
+
+}
+.card-white{
+  padding-top: 20%;
+  padding-right: 0%;
+  padding-bottom: 20%;
+  
+}
+
+.card-grey{
+    padding-top: 20%;
+    padding-right: 0%;
+    padding-bottom: 20%;
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 1rem 1rem;
+    margin: 13px auto;
+    margin-bottom: 1rem;
+    margin-right: -17px;
+    min height: 54px auto;
+    background-color: #5DBCD2;
+    border-radius: 0.3rem;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 20px;
+}
+.text-background{
+    background-color: #f8f9fa;
+    margin: -10px;
+    margin-left: 3px;
+    margin-right: -41px;
+    margin-top: 13px;
+    padding: initial;
+  }
+  .company-size{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;  
+  height: 100px;
+  justify-content: center;
+}
+
+#row1{
+  background-color:	#5DBCD2;
+  color: white;
+  padding: 8%;
+  padding-top: 3%;
+  padding-right: 10%;
+}
+#row2 {
+    background-color: rgb(93, 188, 210);
+    color: white;
+    padding-top: 4%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+}
+.icon{
+  width: 50px;
+}
+.icon2{
+  width: 150px;
+  height: 125px;
+}
+.vbar{
+  width: 2px;
+  height: 63px;
+  background: white;
+  float: right;
+}
+
+.subscribe {
+    position: relative;
+    bottom: 67px;
+    right: -321px;
+    padding-top: -8px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: stretch;
+}
+
+h5 {
+  text-decoration: underline;
+}
+
+h7 {
+  color: white;
+  font-weight: 700;
+
+}
+
+button{
+  align-self: right;
+  
+}
+p {
+  font-size:12px;
+}
